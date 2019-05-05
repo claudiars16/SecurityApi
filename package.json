@@ -34,8 +34,9 @@
         "mongoose": "^5.4.17",
         "rimraf": "^2.6.2",
         "rxjs": "^6.2.2",
-        "typescript": "^3.0.1",
-        "ts-node": "^7.0.1"
+        "ts-node": "^7.0.1",
+        "typescript": "^3.0.1"
+
     },
     "devDependencies": {
         "@nestjs/testing": "^5.1.0",
