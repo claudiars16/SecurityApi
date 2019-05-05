@@ -4,6 +4,9 @@
     "description": "Api de SecurityApp",
     "author": "Claudia Martinez",
     "license": "MIT",
+    "engines": {
+        "node": "11.2.0"
+    },
     "scripts": {
         "build": "tsc",
         "format": "prettier --write \"src/**/*.ts\"",
